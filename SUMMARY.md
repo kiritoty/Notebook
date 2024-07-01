@@ -1,3 +1,7 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [笔记](README.md)
+
+## Leetcode
+
+* [Array 数组](leetcode/array-shu-zu.md)
